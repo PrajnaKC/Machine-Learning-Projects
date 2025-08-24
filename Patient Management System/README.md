@@ -14,10 +14,8 @@ This project is a part of the [Machine Learning Projects](https://github.com/Pra
 ## Technologies Used
 
 - Python
-- Machine Learning libraries (e.g., scikit-learn, pandas, numpy)
-- Database (e.g., SQLite, MySQL)
-- Web framework (if applicable, e.g., Flask/Django)
-- Visualization libraries (e.g., matplotlib, seaborn)
+- Machine Learning libraries (scikit-learn, pandas, numpy)
+- Web framework (fastAPI)
 
 ## Installation
 
@@ -54,10 +52,6 @@ Patient Management System/
 ## Contributing
 
 Contributions are welcome! Please open issues or submit pull requests for improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License.
 
 ## Contact
 
